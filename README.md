@@ -1,5 +1,7 @@
 # Emergency--911-Calls
 
+ The data contains the following fields:
+
 * lat : String variable, Latitude
 * lng: String variable, Longitude
 * desc: String variable, Description of the Emergency Call
